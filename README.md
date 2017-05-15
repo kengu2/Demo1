@@ -1,2 +1,4 @@
 # Demo1
-Testi projekkti plz ignore
+
+Test repository for Git course at Vaasa Hacklab. :)
+Used to experiment with teams and collaboration.
